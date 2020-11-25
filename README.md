@@ -1,10 +1,9 @@
-# Proyecto de GITHUB
+# **Proyecto de Azul School**  
 
->No dejes para mañana lo que puedes hacer hoy
+## Aprendizaje:
 
-[//]:# (Listas enumeradas)
-### Listas enumeradas
- 1. index.html
- 2. informatio.txt
+- **Manejo de consola de Git**
+- **Creación de repositorios**
+- **HTML**
 
-
+*Un curso bastante interesante para aprender una nueva tecnología.*
